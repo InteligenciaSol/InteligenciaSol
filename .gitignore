@@ -1,0 +1,4 @@
+build/previa/
+__pycache__/
+*.pyc
+Thumbs.db
